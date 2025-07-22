@@ -128,7 +128,11 @@ npm start
 
 ## 📸 Screenshots
 
-_Add screenshots of the app here (UI, PDF export, etc.)_
+<img width="1889" height="892" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/536c3e9f-ec46-4cba-869c-15981f514b99" />
+<img width="1892" height="893" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/623b4041-90d3-47e8-89e2-f5fa5f71d2ed" />
+<img width="1896" height="623" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/0b64086b-9cb6-4a6a-9990-c4ae946000de" />
+<img width="1897" height="518" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/c26fa429-7321-4c97-ad8e-87f36f03b56b" />
+<img width="1894" height="343" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/9599b046-b29d-4981-8976-54c01d419963" />
 
 ---
 
